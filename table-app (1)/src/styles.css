@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table,
+td {
+  border: 1px solid black;
+}
+thead {
+  background-color: rgb(81, 176, 231);
+}
