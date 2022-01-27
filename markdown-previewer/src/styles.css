@@ -1,0 +1,21 @@
+body {
+  background-color: cadetblue;
+}
+textarea {
+  height: 400px;
+  width: 470px;
+}
+#preview {
+  height: auto;
+  width: 2500px;
+  background-color: #fff;
+}
+h3 {
+  text-align: center;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: cadetblue;
+}
